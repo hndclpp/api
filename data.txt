@@ -1,0 +1,84 @@
+﻿{
+    "status": 200,
+    "msg": "获取图书列表成功",
+    "data": [
+        {
+            "id": 1,
+            "bookname": "西游记",
+            "author": "吴承恩",
+            "publisher": "北京图书出版社"
+        },
+        {
+            "id": 2,
+            "bookname": "红楼梦",
+            "author": "曹雪芹",
+            "publisher": "上海图书出版社"
+        },
+        {
+            "id": 3,
+            "bookname": "三国演义",
+            "author": "罗贯中",
+            "publisher": "北京图书出版社"
+        },
+        {
+            "id": 529,
+            "bookname": "三个火枪手",
+            "author": "大仲马",
+            "publisher": "电击文库"
+        },
+        {
+            "id": 530,
+            "bookname": "好好学习",
+            "author": "天天向上",
+            "publisher": "努力生活"
+        },
+        {
+            "id": 528,
+            "bookname": "wet",
+            "author": "et",
+            "publisher": "WEAGA"
+        },
+        {
+            "id": 522,
+            "bookname": "别卷了",
+            "author": "是",
+            "publisher": "加油"
+        },
+        {
+            "id": 518,
+            "bookname": "炉具",
+            "author": "吴承恩",
+            "publisher": "430"
+        },
+        {
+            "id": 515,
+            "bookname": "水浒传",
+            "author": "施耐庵",
+            "publisher": "北京图书出版社"
+        },
+        {
+            "id": 513,
+            "bookname": "我尹恒k",
+            "author": "js之神",
+            "publisher": "前端教父听过没"
+        },
+        {
+            "id": 509,
+            "bookname": "我尹恒",
+            "author": "蔡徐坤",
+            "publisher": "无所叼谓"
+        },
+        {
+            "id": 514,
+            "bookname": "别学了呗",
+            "author": "学什么学",
+            "publisher": "无所叼谓"
+        },
+        {
+            "id": 517,
+            "bookname": "这种",
+            "author": "我",
+            "publisher": "是"
+        }
+    ]
+}
